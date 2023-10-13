@@ -1,0 +1,22 @@
+.todo{
+	margin-bottom: 20px;
+}
+
+.todo:before{
+	color: black;
+	content: '◼';
+	padding-right: 10px;
+}
+
+.todo button{
+	font-weight: bold;
+}
+
+.todo .changeTodo{
+	margin-right: 20px;
+}
+
+.todo .buttonDiv{
+	margin-top: -15px;
+	margin-left: 50%;
+}

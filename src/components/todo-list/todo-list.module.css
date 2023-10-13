@@ -1,0 +1,14 @@
+.todoList{
+	text-transform: uppercase;
+	margin-left: 20%;
+	padding-top: 20px;
+	word-spacing: 14px;
+	letter-spacing: 3px;
+	list-style-type: none;
+}
+
+.searchContainer{
+	margin-left: 20%;
+	margin-top: 20px;
+	display: flex;
+}
